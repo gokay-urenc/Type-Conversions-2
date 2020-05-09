@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri_2\Tip_Donusumleri_2\bin\Debug\Tip_Donusumleri_2.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri_2\Tip_Donusumleri_2\bin\Debug\Tip_Donusumleri_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri_2\Tip_Donusumleri_2\bin\Debug\Tip_Donusumleri_2.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri_2\Tip_Donusumleri_2\obj\Debug\Tip_Donusumleri_2.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri_2\Tip_Donusumleri_2\obj\Debug\Tip_Donusumleri_2.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri_2\Tip_Donusumleri_2\obj\Debug\Tip_Donusumleri_2.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri_2\Tip_Donusumleri_2\obj\Debug\Tip_Donusumleri_2.pdb
